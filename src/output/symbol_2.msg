@@ -1,0 +1,1 @@
+{"id":2,"typ":"response","payload":"Gelbes Licht an"}
